@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FBKelasA</string>
+    <string name="menu_utama">Menu Utama</string>
+    <string name="btn_tambah_teman">Tambah Teman</string>
+    <string name="btn_lihat_data">Lihat Daftar Teman</string>
+    <string name="hint_nama_teman">Nama teman</string>
+    <string name="hint_nomor_telepon">Nomor telepon</string>
+    <string name="btn_submit">Submit</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713391289568",
+    "project_id": "teman-8ddbe",
+    "storage_bucket": "teman-8ddbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713391289568:android:688452d31eb472875c0c85",
+        "android_client_info": {
+          "package_name": "com.example.fbkelasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713391289568-0bg7l2tvqf7aka65dlcb9v4mf2me8pt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANZHjNCPmdPFldQESiYKmPZIVyLEgf7Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713391289568-0bg7l2tvqf7aka65dlcb9v4mf2me8pt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
